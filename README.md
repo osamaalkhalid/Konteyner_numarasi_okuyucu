@@ -6,6 +6,11 @@
 
 **Öğrenci-no: 1911404085**
 
+# Uygulama şekli
+
+![Screenshot 2023-01-27 142136](https://user-images.githubusercontent.com/86790667/215273107-0e5a040b-477e-48fc-8275-dcaecb3a8b12.jpg)
+![Screenshot 2023-01-27 142055](https://user-images.githubusercontent.com/86790667/215273109-94cce02b-d99d-4037-a2ef-e431cf819985.jpg)
+
 
 # Kodun Açıklaması
 Konteyner Numarayı okuyucu (KNO)
@@ -30,3 +35,8 @@ Metni tanımaya çalışırken bir istisna yakalanırsa, "Metni okurken bir soru
 **Okuduğunuz için**
 
 **teşekkürler**
+
+![image](https://user-images.githubusercontent.com/86790667/215273148-f949f3e4-8810-4214-bc8c-0cbd5c483bff.png)
+
+![image](https://user-images.githubusercontent.com/86790667/215273167-1b651df3-f41e-4e15-b97b-20969de13f25.png)
+
